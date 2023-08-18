@@ -2,3 +2,5 @@ hi
 yop!
 
 git add -> 스테이징 (= commit 할 파일 잘 골라놨다는 뜻)
+git status 스테이징 상태창 
+git log --all --oneline commit 내역 조회 
