@@ -1,2 +1,4 @@
 hi
 yop!
+
+git add -> 스테이징 (= commit 할 파일 잘 골라놨다는 뜻)
